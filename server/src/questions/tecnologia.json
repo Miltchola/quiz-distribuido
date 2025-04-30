@@ -1,0 +1,20 @@
+[
+    {
+      "text": "Qual linguagem usa 'print' para exibir texto?",
+      "options": {
+        "a": "Python",
+        "b": "Java",
+        "c": "C++"
+      },
+      "correct_answer": "a"
+    },
+    {
+      "text": "O que significa a sigla 'HTML'?",
+      "options": {
+        "a": "Hyperlinks and Text Markup Language",
+        "b": "Home Tool Markup Language",
+        "c": "Hyper Text Markup Language"
+      },
+      "correct_answer": "c"
+    }
+  ]
