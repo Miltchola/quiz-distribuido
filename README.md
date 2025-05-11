@@ -56,13 +56,13 @@ Substitua "Seu Nome" pelo nome do jogador.
 
 🧪 Exemplo Completo:
 
- Terminal 1 (Servidor)
-    cd server/src
+# Terminal 1 (Servidor)
+cd server/src
 
  Escolha um dos temas disponíveis:
-    python main.py --category tecnologia --port 12345
-    python main.py --category filmes --port 12345
-    python main.py --category jogos --port 12345
+python main.py --category tecnologia --port 12345
+python main.py --category filmes --port 12345
+python main.py --category jogos --port 12345
 
 # Terminal 2 (Cliente)
 cd client/src
@@ -75,7 +75,7 @@ Bibliotecas: socket, json, threading
 📁 Formato das Perguntas
 As perguntas são armazenadas em arquivos .json no seguinte formato:
 
-    {
+   {
   "text": "Qual diretor dirigiu 'Pulp Fiction' e 'Kill Bill'?",
   "options": {
     "a": "Martin Scorsese",
@@ -83,7 +83,7 @@ As perguntas são armazenadas em arquivos .json no seguinte formato:
     "c": "Steven Spielberg"
   },
   "correct_answer": "b"
-    }
+ }
     
 🌐 Interoperabilidade
 O sistema foi projetado para permitir que:
