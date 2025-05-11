@@ -65,8 +65,8 @@ Substitua "Seu Nome" pelo nome do jogador.
     python main.py --category jogos --port 12345
 
 # Terminal 2 (Cliente)
-    cd client/src
-    python main.py --host 127.0.0.1 --port 12345 --player "Ed"
+cd client/src
+python main.py --host 127.0.0.1 --port 12345 --player "Ed"
     
 🐍 Requisitos
 Python 3.x
