@@ -1,20 +1,47 @@
 [
-    {
-      "text": "Qual linguagem usa 'print' para exibir texto?",
-      "options": {
-        "a": "Python",
-        "b": "Java",
-        "c": "C++"
-      },
-      "correct_answer": "a"
+  {
+    "text": "Qual linguagem usa 'print' para exibir texto?",
+    "options": {
+      "a": "Python",
+      "b": "Java",
+      "c": "C++"
     },
-    {
-      "text": "O que significa a sigla 'HTML'?",
-      "options": {
-        "a": "Hyperlinks and Text Markup Language",
-        "b": "Home Tool Markup Language",
-        "c": "Hyper Text Markup Language"
-      },
-      "correct_answer": "c"
-    }
-  ]
+    "correct_answer": "a"
+  },
+  {
+    "text": "O que significa a sigla 'HTML'?",
+    "options": {
+      "a": "Hyperlinks and Text Markup Language",
+      "b": "Home Tool Markup Language",
+      "c": "Hyper Text Markup Language"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "text": "Qual destes NÃO é um sistema operacional?",
+    "options": {
+      "a": "Ubuntu",
+      "b": "Photoshop",
+      "c": "Windows 11"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "text": "O que a sigla 'CPU' significa em computação?",
+    "options": {
+      "a": "Central Processing Unit",
+      "b": "Computer Personal Unit",
+      "c": "Central Power Unit"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "text": "Qual empresa desenvolveu o sistema Android?",
+    "options": {
+      "a": "Apple",
+      "b": "Google",
+      "c": "Microsoft"
+    },
+    "correct_answer": "b"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "text": "Qual diretor dirigiu 'Pulp Fiction' e 'Kill Bill'?",
+    "options": {
+      "a": "Martin Scorsese",
+      "b": "Quentin Tarantino",
+      "c": "Steven Spielberg"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "text": "Qual ator interpretou Neo em 'Matrix'?",
+    "options": {
+      "a": "Brad Pitt",
+      "b": "Keanu Reeves",
+      "c": "Tom Cruise"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "text": "Qual filme contém a frase 'May the Force be with you'?",
+    "options": {
+      "a": "Star Trek",
+      "b": "Star Wars",
+      "c": "Guardians of the Galaxy"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "text": "Qual foi o primeiro filme da Marvel no MCU?",
+    "options": {
+      "a": "Homem de Ferro (2008)",
+      "b": "Capitão América (2011)",
+      "c": "Thor (2011)"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "text": "Qual filme venceu o Oscar de Melhor Filme em 2023?",
+    "options": {
+      "a": "Tudo em Todo Lugar ao Mesmo Tempo",
+      "b": "Os Fabelmans",
+      "c": "Top Gun: Maverick"
+    },
+    "correct_answer": "a"
+  }
+]

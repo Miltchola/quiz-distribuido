@@ -1,0 +1,47 @@
+[
+  {
+    "text": "Qual empresa criou a série 'The Legend of Zelda'?",
+    "options": {
+      "a": "Sony",
+      "b": "Nintendo",
+      "c": "Microsoft"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "text": "Qual jogo popularizou o battle royale com 100 jogadores?",
+    "options": {
+      "a": "Fortnite",
+      "b": "PlayerUnknown's Battlegrounds (PUBG)",
+      "c": "Apex Legends"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "text": "Qual é o nome do protagonista de 'The Witcher 3'?",
+    "options": {
+      "a": "Geralt of Rivia",
+      "b": "Ezio Auditore",
+      "c": "Kratos"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "text": "Em que ano foi lançado 'Minecraft'?",
+    "options": {
+      "a": "2009",
+      "b": "2011",
+      "c": "2013"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "text": "Qual destes NÃO é um jogo da FromSoftware?",
+    "options": {
+      "a": "Dark Souls",
+      "b": "Elden Ring",
+      "c": "The Elder Scrolls V: Skyrim"
+    },
+    "correct_answer": "c"
+  }
+]
