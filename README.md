@@ -60,12 +60,16 @@ Substitua "Seu Nome" pelo nome do jogador.
 cd server/src
 
  Escolha um dos temas disponíveis:
+ 
 python main.py --category tecnologia --port 12345
+
 python main.py --category filmes --port 12345
+
 python main.py --category jogos --port 12345
 
 # Terminal 2 (Cliente)
 cd client/src
+
 python main.py --host 127.0.0.1 --port 12345 --player "Ed"
     
 🐍 Requisitos
