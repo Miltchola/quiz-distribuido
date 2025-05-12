@@ -43,5 +43,50 @@
       "c": "Top Gun: Maverick"
     },
     "correct_answer": "a"
+  },
+  {
+    "text": "No filme Gigantes de Aço, quem foi o vencedor da luta final?",
+    "options": {
+      "a": "Zeus",
+      "b": "Ambush",
+      "c": "Atom"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "text": "Qual o filme que Leonardo DiCaprio ganhou sua premiação no ano de 2016",
+    "options": {
+      "a": "O Regresso",
+      "b": "O Lobo de Wall Street",
+      "c": "Ilha do Medo"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "text": "O filme Fim dos Tempos (2008) apresenta uma história um tanto quanto estranha... Qual o motivo das mortes estarem ocorrendo no filme?",
+    "options": {
+      "a": "Fenômeno misterioso",
+      "b": "Reação de raiva a estímulos visuais",
+      "c": "A simples vontade de sobreviver pelos eventos catastróficos estarem ocorrendo no filme"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "text": "A franquia Velozes e Furiosos é muito querida por muitos, sejam fãs de carros ou não. Qual o último filme em que Brian (Paul Walker) teve participação?",
+    "options": {
+      "a": "Velozes e Furiosos 4",
+      "b": "Velozes e Furiosos 7",
+      "c": "Velozes e Furiosos 8"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "text": "No filme Interestelar, é necessário, para realizar o contorno das limitações do espaço-tempo, na primeira viagem da tripulação, passar por qual artifício estelar?",
+    "options": {
+      "a": "Buraco Negro",
+      "b": "Planeta de Miller",
+      "c": "Buraco de Minhoca"
+    },
+    "correct_answer": "c"
   }
 ]

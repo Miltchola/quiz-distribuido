@@ -43,5 +43,50 @@
       "c": "Microsoft"
     },
     "correct_answer": "b"
+  },
+  {
+    "text": "Qual frequência (mHz) uma memória RAM DDR4 normalmente pode alcançar (sem utilizar overclock)?",
+    "options": {
+      "a": "3200",
+      "b": "3600",
+      "c": "2666"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "text": "No sistema operacional, qual a função da utilização de memória de paginação?",
+    "options": {
+      "a": "Serve para que possa estar realizando operações entre processos sem o consumo de disco rígido",
+      "b": "Memória de paginação é o espaço de armazenamento em disco rígido usado para estender a memória RAM",
+      "c": "Esse espaço de memória de paginação é importante para que o CPU tenha uma memória física para atuar em caso de falta de memória RAM"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "text": "A GPU offboard (placa de vídeo) é uma peça dedicada para renderização de vídeos e jogos. O que ocorre ao utilizar a GPU offboard juntamente com um processador com GPU onboard (integrada)?",
+    "options": {
+      "a": "As GPUs irão somar suas memórias dedicadas e irão dividir os processos de renderização, fazendo com que as imagens fiquem mais fluidas e possam ter menos sobrecarga de peças",
+      "b": "O computador irá acusar incompatibilidades, pois você deve apenas uma GPU offboard se você apresentar uma CPU sem GPU onboard. Caso utilize, o computador irá acionar o problema através de bips na LED ou no buzzer",
+      "c": "O computador funcionará normalmente, porém, você não conseguirá extrair todo o potencial de sua GPU offboard, além de desativar a GPU onboard, porém, é bem provável que haja gargalos e problemas de compatibilidade"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "text": "Em caso de travamento/conlegamento de imagem do computador, qual comando de teclas pode ser apertado para que haja um restart de funcionamento?",
+    "options": {
+      "a": "Ctrl + Alt + Shift + B",
+      "b": "Ctrl + Alt + Del",
+      "c": "Ctrl + Shift + Esc"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "text": "Situação: Você ligou seu computador em um dia normal, porém, ele não ligou corretamente e apresentou o erro na LED do seu gabinete. A LED apresentou 1 beep longo (Problema nos módulos de memória RAMA). Qual pode ser a resolução paliativa mais adequada de forma prática?",
+    "options": {
+      "a": "Utilizar o multímetro para verificar se as conexões dos módulos estão conduzindo as tensões corretas nos módulos",
+      "b": "Retirar as memórias, passar borracha/limpa contato nos conectores dos módulos e trocar suas posições nos slots da motherboard (placa-mãe)",
+      "c": "Retirar as memórias e colocar novamente no mesmo lugar"
+    },
+    "correct_answer": "b"
   }
 ]
