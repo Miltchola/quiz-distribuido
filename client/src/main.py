@@ -59,10 +59,10 @@ class QuizClient:
             
     def get_player_answer(self):
         while True:
-            answer = input("Sua resposta (a/b/c/d): ").strip().lower()
-            if answer in ['a', 'b', 'c', 'd']:
+            answer = input("Sua resposta (a/b/c): ").strip().lower()
+            if answer in ['a', 'b', 'c']:
                 return answer
-            print("Por favor, digite a, b, c ou d")
+            print("Por favor, digite a, b ou c")
             
     def display_feedback(self, feedback):
         if feedback['correct']:
