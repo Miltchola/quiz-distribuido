@@ -1,6 +1,6 @@
 [
   {
-    "text": "Qual empresa criou a série 'The Legend of Zelda'?",
+    "text": "Qual empresa criou a série 'The Legend of Zelda'?", 
     "options": {
       "a": "Sony",
       "b": "Nintendo",
@@ -43,5 +43,50 @@
       "c": "The Elder Scrolls V: Skyrim"
     },
     "correct_answer": "c"
+  },
+  {
+    "text": "Qual o maior critério para definir se um jogo é AAA ou não?",
+    "options": {
+      "a": "Custo de produção do jogo",
+      "b": "Quantidade de jogadores simultâneos",
+      "c": "Número de vendas na sua estréia"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "text": "Leon S. Kennedy é um famoso protagonista de Resident Evil, estando presente em diversos jogos. Porém, qual desses jogos Leon NÃO fez parte?",
+    "options": {
+      "a": "Resident Evil 6",
+      "b": "Resident Evil 2 / biohazard 2",
+      "c": "Resident Evil 3 / biohazard 3"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "text": "O primeiro jogo da saga DOOM foi feito para um sistema defasado, porém, muito bem servido para sua época. Qual era esse sistema?",
+    "options": {
+      "a": "Atari",
+      "b": "MS-DOS",
+      "c": "FreeDOS"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "text": "Na franquia Silent Hill, há diversos protagonistas. Qual dos jogos pertence a protagonista Heather Mason?",
+    "options": {
+      "a": "Silent Hill 2 Remake",
+      "b": "Silent Hill (1999)",
+      "c": "Silent Hill 3"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "text": "Segundo as histórias do jogo Subnautica, há diversos animais com tamanhos colossais. Qual deles tem o maior tamanho?",
+    "options": {
+      "a": "Gargantuan Leviathan",
+      "b": "Reaper Leviathan",
+      "c": "Ghost Leviathan"
+    },
+    "correct_answer": "a"
   }
 ]
