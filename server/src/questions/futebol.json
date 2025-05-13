@@ -1,0 +1,92 @@
+[
+  {
+    "text": "Qual jogador é conhecido como 'Rei do Futebol'?",
+    "options": {
+      "a": "Pelé",
+      "b": "Maradona",
+      "c": "Zidane"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "text": "Qual país venceu a Copa do Mundo de 2022?",
+    "options": {
+      "a": "França",
+      "b": "Argentina",
+      "c": "Brasil"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "text": "Quantas Copas do Mundo a Seleção Brasileira venceu até 2022?",
+    "options": {
+      "a": "4",
+      "b": "5",
+      "c": "6"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "text": "Quem fez o gol do título da Copa do Mundo de 2014?",
+    "options": {
+      "a": "Lionel Messi",
+      "b": "Mario Götze",
+      "c": "Thomas Müller"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "text": "Qual jogador detém o recorde de mais gols em Copas do Mundo?",
+    "options": {
+      "a": "Pelé",
+      "b": "Miroslav Klose",
+      "c": "Ronaldo Fenômeno"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "text": "Qual jogador brasileiro é conhecido como 'Fenômeno'?",
+    "options": {
+      "a": "Ronaldinho",
+      "b": "Romário",
+      "c": "Ronaldo"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "text": "Qual é o maior artilheiro da história da Seleção Brasileira?",
+    "options": {
+      "a": "Pelé",
+      "b": "Neymar",
+      "c": "Romário"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "text": "Qual país foi o campeão da primeira Copa do Mundo, em 1930?",
+    "options": {
+      "a": "Argentina",
+      "b": "Uruguai",
+      "c": "Itália"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "text": "Qual jogador argentino usava a camisa 10 na Copa de 1986?",
+    "options": {
+      "a": "Messi",
+      "b": "Batistuta",
+      "c": "Maradona"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "text": "Em qual país ocorreu a Copa do Mundo de 2006?",
+    "options": {
+      "a": "Alemanha",
+      "b": "África do Sul",
+      "c": "Coreia do Sul"
+    },
+    "correct_answer": "a"
+  }
+]
